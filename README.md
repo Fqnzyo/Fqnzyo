@@ -20,11 +20,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Puedes añadir o quitar lenguajes cambiando los nombres en "i=" -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,lua,linux,ubuntu,git,java,neovim,vscode&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,lua,linux,ubuntu,git,yaml&perline=12" alt="Tech Stack" />
   </a>
 </div>
-
 
 ## 🚀 Proyectos Destacados
 
