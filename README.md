@@ -28,8 +28,8 @@
 ## 📈 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" alt="Lenguajes Más Usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fqnzyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fqnzyo&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" alt="Lenguajes Más Usados" width="48%" />
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -42,10 +42,10 @@
 ## 📫 Conecta Conmigo
 
 <div align="center">
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:fqnzy@fqnzy.page">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37&border=D4AF37" alt="Email" />
   </a>
-  <a href="https://discord.com/users/TU_ID_DE_DISCORD">
+  <a href="https://discord.com/users/1047341563132530768">
     <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=D4AF37&border=D4AF37" alt="Discord" />
   </a>
 </div>
