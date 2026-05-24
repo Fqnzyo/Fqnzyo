@@ -25,12 +25,6 @@
   </a>
 </div>
 
-## 📈 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fqnzyo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fqnzyo&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" alt="Lenguajes Más Usados" width="48%" />
-</div>
 
 ## 🚀 Proyectos Destacados
 
