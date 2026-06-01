@@ -22,21 +22,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,lua,linux,ubuntu,git,yaml&perline=12" alt="Tech Stack" />
   </a>
 </div>
-
-## 🚀 Proyectos Destacados
-
-* **AETHELMC** *(2026 - Presente)* — Planificación, diseño e infraestructura de red para un nuevo proyecto a gran escala.
-* **Bowserland** *(2025 - 2026)* — Gestión de red e infraestructura con soporte para más de 100 usuarios simultáneos.
-* **DeportCraft** *(2022 - 2023)* — Desarrollo y administración de un proyecto de servidores con picos de 300 jugadores activos.
-* **Desarrollo de Experiencias y UI** — Creación de scripts, sistemas de iluminación y diseño arquitectónico (ej. Jakarta Clublife replica).
-
-## 📫 Conecta Conmigo
-
-<div align="center">
-  <a href="mailto:fqnzy@fqnzy.page">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF37&border=D4AF37" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/1047341563132530768">
-    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=D4AF37&border=D4AF37" alt="Discord" />
-  </a>
-</div>
