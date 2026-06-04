@@ -13,7 +13,7 @@
 * 🎓 Estudiante de **Ingeniería Mecatrónica**.
 * 🌐 Desarrollador web y programador de interfaces y sistemas lógicos (Luau/Lua, HTML, JS, CSS).
 * ⚙️ Especialista en infraestructura y despliegue de redes en entornos Linux/Ubuntu.
-* 🖥️ Entusiasta de la optimización de entornos de trabajo (Hyprland, Komorebi) y el diseño minimalista.
+* 🖥️ Entusiasta de la optimización de entornos de trabajo y el diseño.
 
 ## 🛠️ Tecnologías y Herramientas
 
